@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CollegeManagementEntity\CollegeManagementEntity.csproj" />
+    <ProjectReference Include="..\CollegeManagementRepository\CollegeManagementRepository.csproj" />
+  </ItemGroup>
+
+</Project>
